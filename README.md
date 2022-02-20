@@ -1,5 +1,5 @@
 # Datium-task
-The steps taken to complete the task are as below:\
+The steps taken to complete the tasks are as below:\
 1. import the dataset and necessary libraries\
 2. Drop columns that have more than 50 percent missing values\
 3. splitting of the dataset to train and test set to avoid biasness or influence on test set\
